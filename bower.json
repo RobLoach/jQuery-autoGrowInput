@@ -1,0 +1,27 @@
+{
+  "name": "jquery-autogrowinput",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Pixabay/jQuery-autoGrowInput/",
+  "authors": [
+    "Simon Steinberger"
+  ],
+  "description": "A lightweight jQuery plugin for making text input fields grow and shrink dynamically while typing.",
+  "main": "jquery.auto-grow-input.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
